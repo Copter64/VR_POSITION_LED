@@ -1,0 +1,2 @@
+sudo ./demo -D0 --led-rows=32 --led-cols=32
+
